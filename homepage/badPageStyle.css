@@ -1,0 +1,82 @@
+body{
+    background-image: url("homepageBackground(Bad).jpeg");
+    background-color: #cccccc;
+}
+
+h1, h2, h3, h4, h5, p{
+    color:white
+}
+
+li{
+    color:aquamarine
+}
+
+a{
+    color: aqua;
+}
+
+.internCardB{
+    background-color: black;
+}
+
+.internCardA{
+    background-color: black;
+}
+
+.offerContent{
+    background-color: black;
+}
+
+.professionTitle{
+    color:blueviolet
+}
+
+.offerTitle{
+    color:blueviolet
+}
+
+.profileIMG{
+    width: 20%;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.homepageHeader{
+    text-align: center;
+}
+
+.sidebarBTNGroup{
+    text-align: center;
+}
+
+/* https://www.w3schools.com/css/css_navbar.asp */
+li {
+    float: left;
+    }
+    
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 148px;
+text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.profileCard{
+    background-color: black;
+}
+
+.topSection{
+    display: flex;
+}
+

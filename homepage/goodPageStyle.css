@@ -1,0 +1,130 @@
+/* https://www.w3schools.com/howto/howto_css_cards.asp */
+.profileCard{
+    box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.5s;
+    width: 30%;
+    border-radius: 10px;
+    margin-right: 20px;
+    height: 100%;
+    border: 3px solid rgb(102, 101, 101);
+}
+
+
+.profileCard:hover {
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,0.2);
+  }
+
+.profileContent {
+    padding: 2px 16px;
+}
+
+.profileIMG{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.professionalHistory{
+    box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+    border-radius: 10px;
+    padding-bottom: 5%;
+}
+
+.internCardA{
+    box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    margin-top: 2%;
+    transition: 0.3s;
+    width: 90%;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin:0 auto;
+}
+
+.internCardB{
+    box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    padding: 2%;
+    width: 90%;
+    border-radius: 10px;
+    border: 3px solid black;
+    margin:0 auto;
+}
+
+.offerCard{
+    box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 99.5%;
+    border-radius: 10px;
+    height: 98.5%;
+    border: 3px solid rgb(102, 101, 101);
+}
+
+.topSection{
+    display: flex;
+}
+
+.offerContent{
+    box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    padding: 2%;
+    width: 90%;
+    border-radius: 10px;
+    border: 3px solid black;
+    margin:0 auto;
+}
+
+.offerTitle{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.homeTitle{
+    text-align: center;
+}
+
+.homeSubTitle{
+    text-align: center;
+}
+
+.sidebarBTNGroup{
+    text-align: center;
+}
+
+/* https://www.w3schools.com/css/css_navbar.asp */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 148px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #111;
+}
+
+.professionTitle{
+padding: 2px 50px;
+}
+
+body{
+    background-image: url("homepageBackground(Good).jpeg");
+    background-color: #cccccc;
+}
+

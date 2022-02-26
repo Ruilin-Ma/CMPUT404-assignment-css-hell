@@ -21,4 +21,18 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Content is copyright Ruilin Ma 2022 under the CC-BY-SA 4.0 unported license
+
+Modifications
+=================
+- Part 1
+- In order to modify projTitle/projAuthor need to add the class attribute for the "<div>" tag
+- Add project pictures for the html files with "<img>" tag
+
+Citation
+=================
+- Part 2
+- /* https://www.w3schools.com/howto/howto_css_cards.asp */ by W3Schools 
+- /* https://www.w3schools.com/css/css_navbar.asp */ by W3Schools 
+
 

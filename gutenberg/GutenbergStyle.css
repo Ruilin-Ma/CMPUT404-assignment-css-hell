@@ -1,0 +1,42 @@
+H1,H2,H3,H4,H5,H6 {
+    font-family: monospace, serif, Helvetica;
+    font-size: 120%;
+  }
+
+p{
+    font-family: Helvetica, serif, monospace;
+    font-size: 80%;
+}
+
+.projTitle{
+    font-family: serif, Helvetica, monospace;
+    font-weight: bold;
+}
+
+.projAuthor{
+    font-family: serif, Helvetica, monospace;
+    font-weight: bold;
+}
+
+a{
+    font-family: "Brush Script MT", cursive;
+}
+
+a:link {
+    color: rgb(128, 0, 117);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+
+body{
+    background-image: url("GutenbergBackground.jpeg");
+    background-color: #cccccc;
+}
+
+.Gutenberg_Cover{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
