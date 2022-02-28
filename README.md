@@ -27,8 +27,8 @@ Content is copyright Ruilin Ma 2022 under the CC-BY-SA 4.0 unported license
 Modifications
 =================
 - Part 1
-- In order to modify projTitle/projAuthor need to add the class attribute for the "<div>" tag
-- Add project pictures for the html files with "<img>" tag
+- In order to modify projTitle/projAuthor need to add the class attribute for the "div" tag
+- Add project pictures for the html files with "img" tag
 
 Citation
 =================
