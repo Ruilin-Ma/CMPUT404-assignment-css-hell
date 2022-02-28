@@ -29,6 +29,12 @@ Modifications
 - Part 1
 - In order to modify projTitle/projAuthor need to add the class attribute for the "div" tag
 - Add project pictures for the html files with "img" tag
+- Link the css file to each of three Gutenberg html files
+- Modify the font style and size for the header, anchor element and paragraph 
+- Bolded the font of projTitle/projAuthor
+- Change the background of the body
+- Gave each Gutenberg file a cover image 
+- Add real image to the Gutenberg 3 html file
 
 Citation
 =================
